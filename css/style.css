@@ -7,6 +7,7 @@ body, html {
     height: 550px;
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(/image/calculator.jpg);
     margin: 25px auto;
+    border-radius: 5px; 
 }
 #calculator {
     width: 320px;
@@ -19,7 +20,7 @@ body, html {
     box-shadow: 5px 10px 12px 5px rgba(0,0,0,0.3), 5px 10px 12px 5px rgba(0,0,0,0.3);
 }
 #result {
-    height: 110px;
+    height: 110px;git
 }
 #history {
     text-align: right;
